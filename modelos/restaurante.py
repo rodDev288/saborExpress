@@ -57,3 +57,4 @@ class Restaurante:
                 mensagem_bebida = f'{i}. Nome:{item._nome} | Preço: R${item._preco} | Tamanho: {item.tamanho}'
                 print(mensagem_bebida)
                 
+                
